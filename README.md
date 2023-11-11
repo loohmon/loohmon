@@ -1,8 +1,6 @@
 🐈 **hello, i'm lô! a newbie who really enjoys learning new things.**
 <br><br>
 👩‍💻 *current focus:* web development
-<br>
-📚 *studying:* system analysis and development at centro universitário fam
 
 - - -
 ![languages](https://img.shields.io/badge/%20-languages:-171717)
